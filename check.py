@@ -4,7 +4,7 @@ def osss():
 	os.system("termux-setup-storage")
 def check():
 	open('/sdcard/Aking-OK.txt', 'w').write( sss+' | '+zz+' | '+shs+'\n')
-        pass
+	pass
 	osss()
 	else:
 		osss()
