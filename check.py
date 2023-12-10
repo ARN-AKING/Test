@@ -6,7 +6,7 @@ def check():
 	open('/sdcard/Aking-OK.txt', 'w').write( sss+' | '+zz+' | '+shs+'\n')
 	pass
 	osss()
-	else:
+else:
 		osss()
 		
 		
